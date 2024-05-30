@@ -1,0 +1,35 @@
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 7px;
+    font-size: 36px;
+    margin: 20px;
+    font-weight: bold;
+    
+}
+
+.container {
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.line {
+    display: flex;
+    flex-direction: row;
+}
+
+.box {
+    padding: 22.6px;
+    border-width: 1px;
+    border: solid black;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
